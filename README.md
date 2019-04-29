@@ -28,6 +28,7 @@ The following invocations relate to samplegraph.txt, with a fixed number of iter
 OUTPUT:
 
 Base : 0 :A/H[ 0]=0.3333333/0.3333333 A/H[ 1]=0.3333333/0.3333333 A/H[ 2]=0.3333333/0.3333333
+
 Iter : 1 :A/H[ 0]=0.0000000/0.8320503 A/H[ 1]=0.4472136/0.5547002 A/H[ 2]=0.8944272/0.0000000
 
 or for large graphs
